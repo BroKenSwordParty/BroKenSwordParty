@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jon Ander
 - 👀 I’m interested in getting my first job as Junior Developer.
-- 🌱 I’m currently studying at campus 42 Urduliz Fundacón Telefónica, since september 2021.
+- 🌱 I’m currently studying at campus 42 Urduliz Fundacón Telefónica since september 2021.
