@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Jon Ander
-- 👀 I’m interested in getting my first job as Junior Developer.
+- 👋 Hi, I’m Jon Ander, Systems technician in Segurma S.A.
 - 🌱 I’m currently studying at campus 42 Urduliz Fundación Telefónica since september 2021.
