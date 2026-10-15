@@ -1,15 +1,36 @@
-# Jon Ander
+<div align="center">
+  <h1>Jon Ander</h1>
+  <p>
+    <strong>Desarrollador full-stack · Fundador y socio de R3ZON · Consultor de software</strong><br>
+    <strong>Full-stack Developer · Founder and Partner at R3ZON · Software Consultant</strong>
+  </p>
+  <p>
+    <a href="mailto:jonander@r3zon.com"><img src="https://img.shields.io/badge/Email-Contactar-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://r3zon.com"><img src="https://img.shields.io/badge/R3ZON-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="R3ZON website"></a>
+    <a href="https://github.com/BroKenSwordParty"><img src="https://img.shields.io/badge/GitHub-BroKenSwordParty-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"></a>
+  </p>
+  <p>
+    <a href="#español">🇪🇸 Español</a> · <a href="#english">🇬🇧 English</a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  </p>
+</div>
 
-**Desarrollador full-stack · Fundador y socio de R3ZON · Consultor de software**<br>
-**Full-stack Developer · Founder and Partner at R3ZON · Software Consultant**
+<hr>
 
-## Español
+<a id="español"></a>
+## 🇪🇸 Español
 
 Desarrollo software para resolver problemas reales de negocio: desde entender las necesidades y diseñar la solución hasta crear la experiencia de usuario, implementar backend y datos, probar, desplegar y mantener el producto.
 
 Me adapto a las tecnologías que requiere cada proyecto y utilizo herramientas de IA cuando aportan valor, sin dejar de lado el criterio técnico y la validación.
 
-### Proyectos destacados
+### 🚀 Proyectos destacados
 
 - **[ANTARES](https://antares.r3zon.com)** — producto de R3ZON para la gestión empresarial de autónomos y pequeñas empresas.
 - **[EusKarta](https://euskarta.com)** — carta digital para restaurantes mediante QR y NFC. Incluye trabajo en traducción asistida por IA, con especial atención al euskera.
@@ -21,7 +42,7 @@ Me adapto a las tecnologías que requiere cada proyecto y utilizo herramientas d
 - **Videojuegos** — he creado juegos y prototipos, incluidos juegos tipo *clicker* de coches y gestión de oficinas, y **Carpenter Defender**.
 - **Automatizaciones y herramientas con IA** — he creado automatizaciones que han ahorrado cientos de horas de trabajo semanales y ayudado a evitar errores críticos, además de paneles para tiendas y herramientas de traducción con IA en varios idiomas.
 
-### Tecnologías y herramientas
+### 🧰 Tecnologías y herramientas
 
 *La experiencia concreta depende de cada proyecto.*
 
@@ -31,7 +52,7 @@ Me adapto a las tecnologías que requiere cada proyecto y utilizo herramientas d
 - **Plataformas y herramientas:** Supabase, AWS, Vercel, Git, GitHub y Docker
 - **IA y automatización:** LLMs, RAG, traducción con IA y automatización de procesos
 
-### Cómo trabajo
+### 🤝 Cómo trabajo
 
 Participo en el ciclo completo del producto: análisis de necesidades, diseño y arquitectura, frontend y experiencia de usuario, backend, APIs y datos, pruebas, seguridad, despliegue y mantenimiento. También colaboro en la gestión del producto y la comunicación con clientes.
 
@@ -41,13 +62,14 @@ Tengo experiencia complementaria administrando servicios de Microsoft y configur
 
 ---
 
-## English
+<a id="english"></a>
+## 🇬🇧 English
 
 I build software to solve real business problems: from understanding requirements and designing a solution to delivering the user experience, backend and data layers, testing, deployment, and maintenance.
 
 I adapt to the technologies each project requires and use AI tools where they add value, while keeping technical judgment and validation central to the process.
 
-### Featured projects
+### 🚀 Featured projects
 
 - **[ANTARES](https://antares.r3zon.com)** — a R3ZON product for business management, designed for freelancers and small businesses.
 - **[EusKarta](https://euskarta.com)** — a digital menu for restaurants, available through QR codes and NFC. Includes work on AI-assisted translation, with a particular focus on Euskara.
@@ -59,7 +81,7 @@ I adapt to the technologies each project requires and use AI tools where they ad
 - **Games** — created games and prototypes, including car and office-management clickers, and **Carpenter Defender**.
 - **Automation and AI tools** — built automations that have saved hundreds of work hours per week and helped prevent critical errors, alongside store admin panels and multilingual AI translation tools.
 
-### Technologies and tools
+### 🧰 Technologies and tools
 
 *My experience with each technology depends on the project.*
 
@@ -69,7 +91,7 @@ I adapt to the technologies each project requires and use AI tools where they ad
 - **Platforms and tools:** Supabase, AWS, Vercel, Git, GitHub, and Docker
 - **AI and automation:** LLMs, RAG, AI translation, and process automation
 
-### How I work
+### 🤝 How I work
 
 I contribute throughout the product lifecycle: requirements analysis, design and architecture, frontend and user experience, backend, APIs and data, testing, security, deployment, and maintenance. I also work on product management and client communication.
 
